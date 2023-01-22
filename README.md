@@ -55,7 +55,7 @@ return values = Creates a csv file with the topsis rank and performance score
 
 
 ## Sample output data
-| Fund Name       | P1 | P2 | P3 | P4 | P5 | Topsis Score | Topsis Rank |
+| Fund Name       | P1 | P2 | P3 | P4 | P5 | Topsis Score | Rank |
 | ------------- |:-------------:| -----:|-----:|-----:|-----:| ---: | ---: |
 | M1    | 0.62 | 0.38 | 3.8 | 33.8 | 9.65  |  0.317272185       | 8           | 
 | M2    | 0.75 | 0.56 | 5.7 | 50.3 | 14.33 |  0.452068871       | 4           | 
